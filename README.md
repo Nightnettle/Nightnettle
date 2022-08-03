@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nightnettle
-- 👀 I’m interested in Sourcepawn, Python, C++, C#, Javascript
-- 🌱 I’m currently learning C++ & Python
+- 👀 I’m interested in Sourcepawn, Python, C++, C, Javascript
+- 🌱 I’m currently learning Powershell, Assembly
 - 📫 How to reach me nlse210502@gmail.com
 
 <!---
